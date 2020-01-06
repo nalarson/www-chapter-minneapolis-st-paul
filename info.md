@@ -1,6 +1,6 @@
 <!--### Chapter Information
-* Chapter Region
+* Minneapolis/St. Paul, Minnesota (USA) area
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-MSP-Meetup/)
+
